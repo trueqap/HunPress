@@ -1,4 +1,4 @@
-=== Magyar kiegészítésék Divi-hez ===
+=== HunPress ===
 
 Contributors: hellowpio, wphuorg    
 Tags: translate, magyar
@@ -16,7 +16,7 @@ HunPress - Bővítmények magyarul
 
 == Description ==
 
-Bővítmények és sablonok magyarnyelvű fordításai
+Bővítmények és sablonok magyar nyelvű fordításai
 
 Tartalom: Divi, Divi-Extra, Bloom, Monarch, affiliate-wp (részleges), payment-gateway-via-paylike-for-woocommerce (részleges), woocommerce-eu-vat-number (részleges), woocommerce-gateway-stripe (részleges), woocommerce-memberships (részleges), woocommerce-product-reviews-pro (részleges), woocommerce-subscriptions (részleges)
 
