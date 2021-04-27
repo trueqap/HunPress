@@ -18,7 +18,7 @@ HunPress - Bővítmények magyarul
 
 Bővítmények és sablonok magyarnyelvű fordításai
 
-Tartalom: Divi, Divi-Extra, Bloom, Monarch
+Tartalom: Divi, Divi-Extra, Bloom, Monarch, affiliate-wp (részleges), payment-gateway-via-paylike-for-woocommerce (részleges), woocommerce-eu-vat-number (részleges), woocommerce-gateway-stripe (részleges), woocommerce-memberships (részleges), woocommerce-product-reviews-pro (részleges), woocommerce-subscriptions (részleges)
 
 
 == Installation ==
